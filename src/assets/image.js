@@ -25,6 +25,16 @@ import img24 from "./img/24.jpg";
 import img25 from "./img/25.jpg";
 import img26 from "./img/26.jpg";
 import img27 from "./img/27.jpg";
+import img28 from "./img/28.jpg";
+import img29 from "./img/29.jpg";
+import img30 from "./img/30.jpg";
+import img31 from "./img/31.jpg";
+import img32 from "./img/32.jpg";
+import img33 from "./img/33.jpg";
+import img34 from "./img/34.jpg";
+import img35 from "./img/35.jpg";
+import img36 from "./img/36.jpg";
+import img37 from "./img/37.jpg";
 import grp_photo from "./img/grp_photo.jpg";
 
 const image = {
@@ -55,6 +65,16 @@ const image = {
   img25,
   img26,
   img27,
+  img28,
+  img29,
+  img30,
+  img31,
+  img32,
+  img33,
+  img34,
+  img35,
+  img36,
+  img37,
   grp_photo,
 };
 

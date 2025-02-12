@@ -47,7 +47,7 @@ const Home = () => {
 
           <SwiperSlide className="relative">
             <img
-              src={image.img19}
+              src={image.img30}
               alt="img2"
               className="w-full h-full object-cover"
             />
@@ -74,7 +74,7 @@ const Home = () => {
 
           <SwiperSlide className="relative">
             <img
-              src={image.img11}
+              src={image.img35}
               alt="img5"
               className="w-full h-full object-cover"
             />
