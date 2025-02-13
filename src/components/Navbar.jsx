@@ -32,8 +32,6 @@ const Navbar = () => {
                 </Link>
               )}
             </MenuItem>
-          </MenuItems>
-          <MenuItems className="py-1">
             <MenuItem>
               {({ active }) => (
                 <Link
@@ -45,6 +43,7 @@ const Navbar = () => {
               )}
             </MenuItem>
           </MenuItems>
+          
         </div>
       </Menu>
     </div>
