@@ -35,6 +35,14 @@ import img34 from "./img/34.jpg";
 import img35 from "./img/35.jpg";
 import img36 from "./img/36.jpg";
 import img37 from "./img/37.jpg";
+import img38 from "./img/38.jpg";
+import img39 from "./img/39.jpg";
+import img40 from "./img/40.jpg";
+import img41 from "./img/41.jpg";
+import img42 from "./img/42.jpg";
+import img43 from "./img/43.jpg";
+import img44 from "./img/44.jpg";
+import img45 from "./img/45.jpg";
 import grp_photo from "./img/grp_photo.jpg";
 
 const image = {
@@ -75,6 +83,14 @@ const image = {
   img35,
   img36,
   img37,
+  img38,
+  img39,
+  img40,
+  img41,
+  img42,
+  img43,
+  img44,
+  img45,
   grp_photo,
 };
 

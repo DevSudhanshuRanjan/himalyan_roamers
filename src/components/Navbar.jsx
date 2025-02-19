@@ -35,6 +35,16 @@ const Navbar = () => {
             <MenuItem>
               {({ active }) => (
                 <Link
+                  to="/Chakrata"
+                  className={`block px-4 py-2 text-sm text-gray-700 ${active ? "bg-gray-100 text-gray-900" : ""}`}
+                >
+                  Chakrata
+                </Link>
+              )}
+            </MenuItem>
+            <MenuItem>
+              {({ active }) => (
+                <Link
                   to="/Landour"
                   className={`block px-4 py-2 text-sm text-gray-700 ${active ? "bg-gray-100 text-gray-900" : ""}`}
                 >
