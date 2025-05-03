@@ -46,5 +46,5 @@ Make sure you have the following installed:
 #### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/himalayan-roamers.git](https://github.com/DevSudhanshuRanjan/himalyan_roamers.git)
+git clone https://github.com/DevSudhanshuRanjan/himalyan_roamers.git
 cd himalayan-roamers
