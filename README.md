@@ -1,8 +1,50 @@
-# React + Vite
+<p align="center">
+  <img src="./public/Screenshot.png" alt="Himalayan Roamers Banner" width="100%" />
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">🌄 Himalayan Roamers</h1>
 
-Currently, two official plugins are available:
+<p align="center">
+  Discover the unexplored beauty of the Himalayas with authentic blogs, itineraries, and travel tips.
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🧭 About the Project
+
+**Himalayan Roamers** is a travel blog website built by a group of adventure-loving students passionate about exploring places around Dehradun like Rishikesh, Mussoorie, Chakrata, and more. The goal is to create a digital space for sharing personal experiences, guides, images, and travel stories that inspire others to roam the Himalayas.
+
+---
+
+## ✨ Features
+
+- 📝 **Curated Travel Blogs:** Honest, experience-based posts from real travelers.
+- 📍 **Destination Highlights:** Get insights on routes, local culture, food, stay, and travel tips.
+- 🖼️ **Beautiful Photo Gallery:** Real images clicked during our explorations.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js (Next.js migration planned), TailwindCSS, Framer Motion
+- **Hosting:** Vercel
+
+---
+
+## 🚀 Installation & Setup
+
+### 🧰 Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+
+---
+
+### 📦 Steps to Set Up the Project Locally
+
+#### 1. Clone the Repository
+
+```bash
+git clone [https://github.com/your-username/himalayan-roamers.git](https://github.com/DevSudhanshuRanjan/himalyan_roamers.git)
+cd himalayan-roamers
